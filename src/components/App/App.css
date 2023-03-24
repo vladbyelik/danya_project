@@ -1,0 +1,28 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+body {
+  background-image: linear-gradient(180deg, #080125 0%, #0c1609 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+}
+
+.container {
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
