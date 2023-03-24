@@ -17,9 +17,11 @@ const MainPage = () => {
         </h2>
 
         <p className='main-page__desc'>
-          Spendyverse is the website where you can manage your spendings and see 
-          statistics on them. Also, you can subscribe on other users and see 
-          their statistics
+          The "Drone Shop" is your go-to destination for all things drones. 
+          We offer a wide selection of high-quality drones, accessories, 
+          and parts, as well as expert repair and maintenance services. 
+          Whether you're a hobbyist or a professional, we've got everything 
+          you need to take your drone experience to the next level
         </p>
 
         <button 
